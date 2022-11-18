@@ -1,0 +1,11 @@
+1- Defina o que é uma tabela da verdade e cite exemplos.
+    Tabela da verdade é utilizada para o estudo da lógica, determinando se uma fórmula é válida
+    Exemplo 1:
+      Márcia é servidora pública
+      Márcia passou no concurso
+      Se e somente se Márcia passou no concurso, ela é servidora pública.
+
+2- Defina o que é uma variável, como ela deve ser escrita  e o que não pode ser utilizado em uma variável.
+    Uma variável é um valor que armazena dados, podendo ser subscritos ou modificados durante o programa
+    Deve ser escrita desse modo: nome_variavel = valor
+    Variáveis não podem começar com números
